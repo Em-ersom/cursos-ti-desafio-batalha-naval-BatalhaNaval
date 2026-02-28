@@ -1,5 +1,6 @@
 #include <stdio.h>
 
+
 /** DESAFIO: BATALHA NAVAL **/
 
 int main() {
